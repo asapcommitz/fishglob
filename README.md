@@ -5,7 +5,7 @@
 ## Why fishglob?
 
 Fish uses different glob syntax than Bash/Zsh, which can be frustrating when:
-- Copying commands from documentation or Stack Overflow
+- Copying commands from documentation or Stack Overflow (we (yes WE, as in you and me and every coder) have all been there.)
 - Switching between shells
 - Using tools that output Bash-style globs
 
