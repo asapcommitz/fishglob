@@ -50,7 +50,7 @@ Or comment out the binding in `~/.config/fish/conf.d/fishglob.fish`.
 
 ### Via Fisher (Recommended)
 ```fish
-fisher install your-repo/fishglob
+fisher install asapcommitz/fishglob
 ```
 
 ### Manual
