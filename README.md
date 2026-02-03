@@ -75,4 +75,4 @@ Once installed, `fishglob` automatically intercepts the **Enter** key. If it det
 | `**/{src,test}/*.rs` | `**/src/*.rs **/test/*.rs` | Braces in middle of path |
 
 ##  License
-MIT
+(MIT)[LICENSE.md]
